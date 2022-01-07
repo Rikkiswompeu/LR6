@@ -1,7 +1,6 @@
 # LR6
 Лабораторная работа №6
 
-
 Настройка после установки Git, введено имя пользователя (4018к Nogovitsyna Z.E.) и email.
 ![username img](pic/username.png)
 
